@@ -1,3 +1,4 @@
 Checkpoint file created
 first change
-TARGET: original
+TARGET: A
+TARGET: B
