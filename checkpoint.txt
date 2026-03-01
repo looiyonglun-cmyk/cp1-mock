@@ -1,1 +1,2 @@
 Checkpoint file created
+LINE_TO_CONFLICT: A
